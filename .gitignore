@@ -1,0 +1,13 @@
+# حزم ومخرجات البناء / build output
+dist/
+*.zip
+
+# مخرجات المترجم / compiled artefacts
+schemas/gschemas.compiled
+__pycache__/
+*.mo
+
+# محرّرات / editors
+.vscode/
+.idea/
+*.swp

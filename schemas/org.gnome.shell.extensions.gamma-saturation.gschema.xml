@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gamma-saturation"
+          path="/org/gnome/shell/extensions/gamma_saturation/">
+
+    <key name="saturation" type="d">
+      <range min="0.0" max="2.0"/>
+      <default>1.0</default>
+      <summary>Saturation factor</summary>
+      <description>
+        Saturation multiplier. 0.0 is greyscale, 1.0 is unchanged and 2.0 is
+        the maximum amount of saturation.
+      </description>
+    </key>
+
+    <key name="gamma" type="d">
+      <range min="0.5" max="2.5"/>
+      <default>1.0</default>
+      <summary>Gamma</summary>
+      <description>
+        Traditional display gamma. 1.0 is unchanged, values above 1.0 brighten
+        the midtones and values below 1.0 darken them.
+      </description>
+    </key>
+
+  </schema>
+</schemalist>

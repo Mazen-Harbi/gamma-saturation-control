@@ -1,0 +1,17 @@
+{
+  "uuid": "gamma-saturation@mazen-harbi.github.io",
+  "name": "Gamma & Saturation Control",
+  "description": "Screen-wide saturation and gamma for GNOME Shell. Adjust the whole desktop — windows, wallpaper and the top bar — from one settings page; changes apply live, with no restart and no background service.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.gamma-saturation",
+  "url": "https://github.com/Mazen-Harbi/gamma-saturation-control",
+  "version": 4,
+  "version-name": "1.0.3"
+}
