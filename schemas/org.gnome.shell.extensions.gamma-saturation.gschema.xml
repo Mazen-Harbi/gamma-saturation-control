@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
   <schema id="org.gnome.shell.extensions.gamma-saturation"
-          path="/org/gnome/shell/extensions/gamma_saturation/">
+          path="/org/gnome/shell/extensions/gamma-saturation/">
 
     <key name="saturation" type="d">
       <range min="0.0" max="2.0"/>

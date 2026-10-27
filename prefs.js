@@ -115,7 +115,7 @@ export default class GammaSaturationPreferences extends ExtensionPreferences {
 
         aboutGroup.add(new Adw.ActionRow({
             title: _('Version'),
-            subtitle: this.metadata['version-name'] ?? '1.0.3',
+            subtitle: this.metadata['version-name'] ?? '1.0.4',
         }));
 
         aboutGroup.add(new Adw.ActionRow({

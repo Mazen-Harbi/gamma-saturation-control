@@ -12,6 +12,6 @@
   ],
   "settings-schema": "org.gnome.shell.extensions.gamma-saturation",
   "url": "https://github.com/Mazen-Harbi/gamma-saturation-control",
-  "version": 4,
-  "version-name": "1.0.3"
+  "version": 5,
+  "version-name": "1.0.4"
 }
