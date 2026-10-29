@@ -32,8 +32,11 @@ version, open an issue with your GNOME version and the output of
 
 ### extensions.gnome.org
 
-The extension is in the submission queue. Once it is accepted it can be installed
-from its page on [extensions.gnome.org](https://extensions.gnome.org).
+Install it from its page on extensions.gnome.org:
+
+<https://extensions.gnome.org/extension/11436/gnome-gamma-saturation-control/>
+
+It is updated through the Extensions application like any other extension.
 
 ### From a release
 
